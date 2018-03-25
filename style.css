@@ -1,0 +1,21 @@
+.navbar {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card {
+    width: 200px;
+    margin-top: 20px;
+    border: 0;
+}
+
+.card-title {
+    color: white;
+}
